@@ -67,6 +67,7 @@ dynamic_collections:
         - Biopic
       Family:
         - Kids & Family
+        - 가족
       Fantasy:
         - SciFi & Fantasy
         - Science Fiction & Fantasy
@@ -87,3 +88,4 @@ dynamic_collections:
         - Talk
       War:
         - War & Politics
+        - 전쟁
